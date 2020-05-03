@@ -1,0 +1,628 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Apr 2020 01:52:18 at http://my-iddah.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://my-iddah.com/ -O1 "C:\My Web Sites\my-iddah" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:08:14	Warning: 	File not parsed, looks like binary: my-iddah.com/wp-content/themes/my-iddah-new-version/fonts/glyphicons-halflings-regular.woff2
+02:08:14	Warning: 	File not parsed, looks like binary: my-iddah.com/wp-content/themes/my-iddah-new-version/fonts/glyphicons-halflings-regular.ttf
+02:08:14	Warning: 	Retry after error -4 (Connect Error) at link my-iddah.com/wp-content/themes/my-iddah-new-version/fonts/glyphicons-halflings-regular.svg (from my-iddah.com/wp-content/themes/my-iddah-new-version/styles/bootstrap.css)
+02:08:14	Warning: 	Retry after error -2 (Receive Time Out) at link my-iddah.com/wp-content/themes/my-iddah-new-version/images/banners/family_banner.png (from my-iddah.com/wp-content/themes/my-iddah-new-version/styles/layout.css)
+02:08:15	Warning: 	Retry after error -4 (Connect Error) at link my-iddah.com/wp-content/themes/my-iddah-new-version/images/banners/remmarige_banner.png (from my-iddah.com/wp-content/themes/my-iddah-new-version/styles/layout.css)
+02:08:15	Warning: 	Moved Permanently for my-iddah.com/?p=20
+02:08:15	Warning: 	File has moved from my-iddah.com/?p=20 to http://my-iddah.com/widow/
+02:10:28	Warning: 	Retry after error -2 (Receive Time Out) at link my-iddah.com/wp-content/themes/my-iddah-new-version/images/links/widow_link.png (from my-iddah.com/widow/)
+02:11:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/6waystosupportawidow.jpg (from my-iddah.com/widow/)
+02:12:21	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/siddigah-cover.jpg (from my-iddah.com/widow/)
+02:12:31	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/requiemofamarriage.jpg (from my-iddah.com/widow/)
+02:12:41	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/whatisiddah.jpg (from my-iddah.com/widow/)
+02:13:28	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/whentruelovecomestwice.jpg (from my-iddah.com/widow/)
+02:13:39	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/3misconceptionsaboutiddah.jpg (from my-iddah.com/widow/)
+02:13:54	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/5rulesofiddah-1.jpg (from my-iddah.com/widow/)
+02:13:54	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/whatisiddah-1.jpg (from my-iddah.com/widow/)
+02:14:15	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/atimeplaceforeverything-1.jpg (from my-iddah.com/widow/)
+02:14:28	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/thegirftofiddahbynaimabrobertpart1.jpg (from my-iddah.com/widow/)
+02:14:55	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheGiftofIddahbyNaimaB.Robertpart2-1.jpg (from my-iddah.com/widow/)
+02:15:10	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/anothermansdaughter.jpg (from my-iddah.com/widow/)
+02:15:17	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheSingleParentGuidetoQuickandHealthyCooking.jpg (from my-iddah.com/widow/)
+02:15:17	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/whentruelovecomestwice-1.jpg (from my-iddah.com/widow/)
+02:15:25	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/acceptingallahsddecree.jpg (from my-iddah.com/widow/)
+02:15:33	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/formersistertoawidow.jpg (from my-iddah.com/widow/)
+02:15:43	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/daringtohopeagain.jpg (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/Youdontneedaman.png (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/widow/index.html (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/widow/myStory.html (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/widow/books.html (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/widow/articlesHome.html (from my-iddah.com/widow/)
+02:15:49	Error: 	"Not Found" (404) at link my-iddah.com/widow/Products.html (from my-iddah.com/widow/)
+02:15:49	Warning: 	Moved Permanently for my-iddah.com/?p=26
+02:15:49	Warning: 	File has moved from my-iddah.com/?p=26 to http://my-iddah.com/divorcee/
+02:15:59	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/buildyourmarriageonsolidground.jpg (from my-iddah.com/divorcee/)
+02:15:59	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/atimeplaceforeverything.jpg (from my-iddah.com/divorcee/)
+02:16:08	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/5stepstoahealthyrecovery.jpg (from my-iddah.com/divorcee/)
+02:16:15	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/8waystocopewithdivorce.jpg (from my-iddah.com/divorcee/)
+02:16:24	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/fiqhrulesoniddah.jpg (from my-iddah.com/divorcee/)
+02:16:24	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/requiemofamarriage-1.jpg (from my-iddah.com/divorcee/)
+02:16:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/iwassureitwouldneverhappentome.jpg (from my-iddah.com/divorcee/)
+02:16:43	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/singlemuslimmoms-organization.jpg (from my-iddah.com/divorcee/)
+02:16:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/istilllovemyformalinlaws-1.jpg (from my-iddah.com/divorcee/)
+02:16:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/5stepstoahealthyrecovery-1.jpg (from my-iddah.com/divorcee/)
+02:16:59	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/4waystogetridofpostdivorce.jpg (from my-iddah.com/divorcee/)
+02:17:07	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/struggleapoemaboutleaving.jpg (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/Soyouwannamarryasinglemum....jpg (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/divorcee/index.html (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/divorcee/myStory.html (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/divorcee/books.html (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/divorcee/articlesHome.html (from my-iddah.com/divorcee/)
+02:17:19	Error: 	"Not Found" (404) at link my-iddah.com/divorcee/Products.html (from my-iddah.com/divorcee/)
+02:17:19	Warning: 	Moved Permanently for my-iddah.com/?p=28
+02:17:19	Warning: 	File has moved from my-iddah.com/?p=28 to http://my-iddah.com/visitor/
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ditchingdivorcedramavideo-2.jpg (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/singlemuslimmoms-organization.jpeg (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/DaringtoHopeAgain.jpg (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/visitor/index.html (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/visitor/myStory.html (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/visitor/books.html (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/visitor/articlesHome.html (from my-iddah.com/visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/visitor/Products.html (from my-iddah.com/visitor/)
+02:17:40	Warning: 	Moved Permanently for my-iddah.com/?p=75
+02:17:40	Warning: 	File has moved from my-iddah.com/?p=75 to http://my-iddah.com/about-us/
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/about-us/index.html (from my-iddah.com/about-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/about-us/myStory.html (from my-iddah.com/about-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/about-us/books.html (from my-iddah.com/about-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/about-us/articlesHome.html (from my-iddah.com/about-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/about-us/Products.html (from my-iddah.com/about-us/)
+02:17:40	Warning: 	Moved Permanently for my-iddah.com/?p=67
+02:17:40	Warning: 	File has moved from my-iddah.com/?p=67 to http://my-iddah.com/contact-us/
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/contact-us/index.html (from my-iddah.com/contact-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/contact-us/myStory.html (from my-iddah.com/contact-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/contact-us/books.html (from my-iddah.com/contact-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/contact-us/articlesHome.html (from my-iddah.com/contact-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/contact-us/Products.html (from my-iddah.com/contact-us/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/8waystocopewithdivorcethroughworship.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:17:40	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/iwassureitwouldneverhappentome-1.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:17:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ISpentRamadanAlone.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:17:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheGiftofIddahbyNaimaB.Robertpart1.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:17:50	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheGiftofIddahbyNaimaB.Robertpart2.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:17:58	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ASeriesofFirsts.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:18:06	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ASeriesofFirstspart-2.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TipsforaBlessedSoloEid.jpg (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/inspiration-visitor/index.html (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/inspiration-visitor/myStory.html (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/inspiration-visitor/books.html (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/inspiration-visitor/articlesHome.html (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/inspiration-visitor/Products.html (from my-iddah.com/category/visitor/inspiration-visitor/)
+02:19:17	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/3misconceptoinsaboutiddah.jpg (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheFiqhofIddah.jpg (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/fiqh-visitor/index.html (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/fiqh-visitor/myStory.html (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/fiqh-visitor/books.html (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/fiqh-visitor/articlesHome.html (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/fiqh-visitor/Products.html (from my-iddah.com/category/visitor/fiqh-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/acceptingallahsdecree.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/fromasistertoawidow.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/6waystosupportawidow-1.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/4waystogetridofpostdivorce-1.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:19:29	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/struggleapoemaboutleaving-1.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:19:42	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/MyDivorce-istheBiggestBlessingofMyLife.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:20:01	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/runningonEareyouemotionallyexhausted.jpeg (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mykhulmyfreedom.jpg (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/self-visitor/index.html (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/self-visitor/myStory.html (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/self-visitor/books.html (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/self-visitor/articlesHome.html (from my-iddah.com/category/visitor/self-visitor/)
+02:20:43	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/self-visitor/Products.html (from my-iddah.com/category/visitor/self-visitor/)
+02:20:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/standingonyourowntwofeet-1.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:02	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mybestramadans.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:14	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ittookme21yearsbig.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:14	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/AnotherMansDaughter.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:22	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/Reviews-1.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/LifeasaStep-Parent.jpg (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/family-visitor/index.html (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/family-visitor/myStory.html (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/family-visitor/books.html (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/family-visitor/articlesHome.html (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/family-visitor/Products.html (from my-iddah.com/category/visitor/family-visitor/)
+02:21:34	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/buildyournewmarriageonsolidground.jpg (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:21:46	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/Guidancethrough-theStableDoor.jpg (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:21:58	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/TheHeartDoesGoOn.jpg (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/couldieverremarry-1.jpg (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/remarriage-visitor/index.html (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/remarriage-visitor/myStory.html (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/remarriage-visitor/books.html (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/remarriage-visitor/articlesHome.html (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/visitor/remarriage-visitor/Products.html (from my-iddah.com/category/visitor/remarriage-visitor/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/family/index.html (from my-iddah.com/category/widow/family/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/family/myStory.html (from my-iddah.com/category/widow/family/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/family/books.html (from my-iddah.com/category/widow/family/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/family/articlesHome.html (from my-iddah.com/category/widow/family/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/family/Products.html (from my-iddah.com/category/widow/family/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/fiqh/index.html (from my-iddah.com/category/widow/fiqh/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/fiqh/myStory.html (from my-iddah.com/category/widow/fiqh/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/fiqh/books.html (from my-iddah.com/category/widow/fiqh/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/fiqh/articlesHome.html (from my-iddah.com/category/widow/fiqh/)
+02:22:12	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/fiqh/Products.html (from my-iddah.com/category/widow/fiqh/)
+02:22:26	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/MidnightPrayersofaSingleMother.jpg (from my-iddah.com/category/widow/inspiration/)
+02:22:38	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/thetensionsofiddah.jpg (from my-iddah.com/category/widow/inspiration/)
+02:22:49	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/celebratelife-1.jpg (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/hispromiseistrue-1.jpg (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/inspiration/index.html (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/inspiration/myStory.html (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/inspiration/books.html (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/inspiration/articlesHome.html (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/inspiration/Products.html (from my-iddah.com/category/widow/inspiration/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/remarriage/index.html (from my-iddah.com/category/widow/remarriage/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/remarriage/myStory.html (from my-iddah.com/category/widow/remarriage/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/remarriage/books.html (from my-iddah.com/category/widow/remarriage/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/remarriage/articlesHome.html (from my-iddah.com/category/widow/remarriage/)
+02:22:57	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/remarriage/Products.html (from my-iddah.com/category/widow/remarriage/)
+02:23:05	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/IddahbyAnyOtherName.jpg (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/MovingBeyondtheBlues.jpg (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/siddiqah-cover.jpg (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/self/index.html (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/self/myStory.html (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/self/books.html (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/self/articlesHome.html (from my-iddah.com/category/widow/self/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/category/widow/self/Products.html (from my-iddah.com/category/widow/self/)
+02:23:42	Warning: 	Moved Permanently for my-iddah.com/?p=103
+02:23:42	Warning: 	File has moved from my-iddah.com/?p=103 to http://my-iddah.com/topreads/
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/topreads/index.html (from my-iddah.com/topreads/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/topreads/myStory.html (from my-iddah.com/topreads/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/topreads/books.html (from my-iddah.com/topreads/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/topreads/articlesHome.html (from my-iddah.com/topreads/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/topreads/Products.html (from my-iddah.com/topreads/)
+02:23:42	Warning: 	Moved Permanently for my-iddah.com/?p=176
+02:23:42	Warning: 	File has moved from my-iddah.com/?p=176 to http://my-iddah.com/6-ways-to-support-a-widow-2/
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/istilllovemyformalinlaws.jpg (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:23:42	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/howibeganhealingmyiddah.jpg (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/6-ways-to-support-a-widow-2/index.html (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/6-ways-to-support-a-widow-2/myStory.html (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/6-ways-to-support-a-widow-2/books.html (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/6-ways-to-support-a-widow-2/articlesHome.html (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/6-ways-to-support-a-widow-2/Products.html (from my-iddah.com/6-ways-to-support-a-widow-2/)
+02:24:35	Warning: 	Moved Permanently for my-iddah.com/?p=137
+02:24:35	Warning: 	File has moved from my-iddah.com/?p=137 to http://my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mybestramadhans.jpg (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/index.html (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/myStory.html (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/books.html (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/articlesHome.html (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Error: 	"Not Found" (404) at link my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/Products.html (from my-iddah.com/siddiqah-a-support-for-divorcees-and-widows-in-nigeria/)
+02:24:35	Warning: 	Moved Permanently for my-iddah.com/?p=166
+02:24:35	Warning: 	File has moved from my-iddah.com/?p=166 to http://my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/index.html (from my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/myStory.html (from my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/books.html (from my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/articlesHome.html (from my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/Products.html (from my-iddah.com/requiem-of-a-marriage-struggling-with-divorce/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=177
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=177 to http://my-iddah.com/what-is-iddah-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/thefiqhofiddah.jpg (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/what-is-iddah-2/index.html (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/what-is-iddah-2/myStory.html (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/what-is-iddah-2/books.html (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/what-is-iddah-2/articlesHome.html (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/what-is-iddah-2/Products.html (from my-iddah.com/what-is-iddah-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=105
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=105 to http://my-iddah.com/trending/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/trending/index.html (from my-iddah.com/trending/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/trending/myStory.html (from my-iddah.com/trending/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/trending/books.html (from my-iddah.com/trending/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/trending/articlesHome.html (from my-iddah.com/trending/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/trending/Products.html (from my-iddah.com/trending/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=187
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=187 to http://my-iddah.com/when-true-love-comes-twice-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/couldieverremarry.jpg (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/thetensionofiddah.jpg (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/hispromiseistrue.jpg (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/when-true-love-comes-twice-2/index.html (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/when-true-love-comes-twice-2/myStory.html (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/when-true-love-comes-twice-2/books.html (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/when-true-love-comes-twice-2/articlesHome.html (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/when-true-love-comes-twice-2/Products.html (from my-iddah.com/when-true-love-comes-twice-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=185
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=185 to http://my-iddah.com/3-misconceptions-about-iddah-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/3-misconceptions-about-iddah-2/index.html (from my-iddah.com/3-misconceptions-about-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/3-misconceptions-about-iddah-2/myStory.html (from my-iddah.com/3-misconceptions-about-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/3-misconceptions-about-iddah-2/books.html (from my-iddah.com/3-misconceptions-about-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/3-misconceptions-about-iddah-2/articlesHome.html (from my-iddah.com/3-misconceptions-about-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/3-misconceptions-about-iddah-2/Products.html (from my-iddah.com/3-misconceptions-about-iddah-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=184
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=184 to http://my-iddah.com/5-rules-of-iddah-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-rules-of-iddah-2/index.html (from my-iddah.com/5-rules-of-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-rules-of-iddah-2/myStory.html (from my-iddah.com/5-rules-of-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-rules-of-iddah-2/books.html (from my-iddah.com/5-rules-of-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-rules-of-iddah-2/articlesHome.html (from my-iddah.com/5-rules-of-iddah-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-rules-of-iddah-2/Products.html (from my-iddah.com/5-rules-of-iddah-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=172
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=172 to http://my-iddah.com/a-time-place-for-everything/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ditchingdivorcedramavideo.jpg (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mydivorceisthebiggestblessingofmylife.jpg (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/a-time-place-for-everything/index.html (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/a-time-place-for-everything/myStory.html (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/a-time-place-for-everything/books.html (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/a-time-place-for-everything/articlesHome.html (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/a-time-place-for-everything/Products.html (from my-iddah.com/a-time-place-for-everything/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=150
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=150 to http://my-iddah.com/on-iddah-by-naima-b-robert-part-1/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/on-iddah-by-naima-b-robert-part-1/index.html (from my-iddah.com/on-iddah-by-naima-b-robert-part-1/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/on-iddah-by-naima-b-robert-part-1/myStory.html (from my-iddah.com/on-iddah-by-naima-b-robert-part-1/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/on-iddah-by-naima-b-robert-part-1/books.html (from my-iddah.com/on-iddah-by-naima-b-robert-part-1/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/on-iddah-by-naima-b-robert-part-1/articlesHome.html (from my-iddah.com/on-iddah-by-naima-b-robert-part-1/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/on-iddah-by-naima-b-robert-part-1/Products.html (from my-iddah.com/on-iddah-by-naima-b-robert-part-1/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=149
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=149 to http://my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/aseriesoffirsts.jpg (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/aseriesoffirstspart2.jpg (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/tumblr_mr6nogcQDv1qdheobo1_1280.jpg (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/movingbeyondtheblues.jpg (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/index.html (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/myStory.html (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/books.html (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/articlesHome.html (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/Products.html (from my-iddah.com/the-gift-of-iddah-by-naima-b-robert-part-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=143
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=143 to http://my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/index.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:24:45	Warning: 	Retry after error -4 (No data (connection closed)) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/myStory.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/books.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/articlesHome.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/Products.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=125
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=125 to http://my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/index.html (from my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/myStory.html (from my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/books.html (from my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/articlesHome.html (from my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/Products.html (from my-iddah.com/the-single-parent-guide-to-quick-and-healthy-cooking/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=181
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=181 to http://my-iddah.com/accepting-allahs-decree/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/accepting-allahs-decree/index.html (from my-iddah.com/accepting-allahs-decree/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/accepting-allahs-decree/myStory.html (from my-iddah.com/accepting-allahs-decree/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/accepting-allahs-decree/books.html (from my-iddah.com/accepting-allahs-decree/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/accepting-allahs-decree/articlesHome.html (from my-iddah.com/accepting-allahs-decree/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/accepting-allahs-decree/Products.html (from my-iddah.com/accepting-allahs-decree/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=178
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=178 to http://my-iddah.com/from-a-sister-to-a-widow-2/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/celebratelife.jpg (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/from-a-sister-to-a-widow-2/index.html (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/from-a-sister-to-a-widow-2/myStory.html (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/from-a-sister-to-a-widow-2/books.html (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/from-a-sister-to-a-widow-2/articlesHome.html (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/from-a-sister-to-a-widow-2/Products.html (from my-iddah.com/from-a-sister-to-a-widow-2/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=145
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=145 to http://my-iddah.com/daring-to-hope-again/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/iddahbyanyothername.jpg (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/daring-to-hope-again/index.html (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/daring-to-hope-again/myStory.html (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/daring-to-hope-again/books.html (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/daring-to-hope-again/articlesHome.html (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/daring-to-hope-again/Products.html (from my-iddah.com/daring-to-hope-again/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=129
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=129 to http://my-iddah.com/you-dont-need-a-man/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/you-dont-need-a-man/index.html (from my-iddah.com/you-dont-need-a-man/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/you-dont-need-a-man/myStory.html (from my-iddah.com/you-dont-need-a-man/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/you-dont-need-a-man/books.html (from my-iddah.com/you-dont-need-a-man/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/you-dont-need-a-man/articlesHome.html (from my-iddah.com/you-dont-need-a-man/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/you-dont-need-a-man/Products.html (from my-iddah.com/you-dont-need-a-man/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=173
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=173 to http://my-iddah.com/build-your-new-marriage-on-solid-ground/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/midnightprayersofasinglemother.jpg (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/theheartdoesgoon.jpg (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/build-your-new-marriage-on-solid-ground/index.html (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/build-your-new-marriage-on-solid-ground/myStory.html (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/build-your-new-marriage-on-solid-ground/books.html (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/build-your-new-marriage-on-solid-ground/articlesHome.html (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/build-your-new-marriage-on-solid-ground/Products.html (from my-iddah.com/build-your-new-marriage-on-solid-ground/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=171
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=171 to http://my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/05/5-Steps-To-A-Healthy-Recovery-Guide-1-1.pdf (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/index.html (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/myStory.html (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/books.html (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/articlesHome.html (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/Products.html (from my-iddah.com/5-steps-to-a-healthy-recovery-muslimahs-guide-to-divorce-loss-e-book/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=160
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=160 to http://my-iddah.com/8-ways-to-cope-with-divorce-through-worship/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/8-ways-to-cope-with-divorce-through-worship/index.html (from my-iddah.com/8-ways-to-cope-with-divorce-through-worship/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/8-ways-to-cope-with-divorce-through-worship/myStory.html (from my-iddah.com/8-ways-to-cope-with-divorce-through-worship/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/8-ways-to-cope-with-divorce-through-worship/books.html (from my-iddah.com/8-ways-to-cope-with-divorce-through-worship/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/8-ways-to-cope-with-divorce-through-worship/articlesHome.html (from my-iddah.com/8-ways-to-cope-with-divorce-through-worship/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/8-ways-to-cope-with-divorce-through-worship/Products.html (from my-iddah.com/8-ways-to-cope-with-divorce-through-worship/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=42
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=42 to http://my-iddah.com/fiqh-rules-on-iddah/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/fiqh-rules-on-iddah/index.html (from my-iddah.com/fiqh-rules-on-iddah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/fiqh-rules-on-iddah/myStory.html (from my-iddah.com/fiqh-rules-on-iddah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/fiqh-rules-on-iddah/books.html (from my-iddah.com/fiqh-rules-on-iddah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/fiqh-rules-on-iddah/articlesHome.html (from my-iddah.com/fiqh-rules-on-iddah/)
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/fiqh-rules-on-iddah/Products.html (from my-iddah.com/fiqh-rules-on-iddah/)
+02:24:45	Warning: 	Moved Permanently for my-iddah.com/?p=156
+02:24:45	Warning: 	File has moved from my-iddah.com/?p=156 to http://my-iddah.com/it-would-never-happen-to-me/
+02:24:45	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/humbleadvicefrommydivorce-versary.jpg (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/it-would-never-happen-to-me/index.html (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/it-would-never-happen-to-me/myStory.html (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/it-would-never-happen-to-me/books.html (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/it-would-never-happen-to-me/articlesHome.html (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/it-would-never-happen-to-me/Products.html (from my-iddah.com/it-would-never-happen-to-me/)
+02:24:59	Warning: 	Moved Permanently for my-iddah.com/?p=169
+02:24:59	Warning: 	File has moved from my-iddah.com/?p=169 to http://my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/
+02:24:59	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/theimportanceofselfcare.jpeg (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/index.html (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/myStory.html (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/books.html (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/articlesHome.html (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/Products.html (from my-iddah.com/single-muslim-mums-organisation-for-single-muslim-mothers/)
+02:25:12	Warning: 	Moved Permanently for my-iddah.com/?p=167
+02:25:12	Warning: 	File has moved from my-iddah.com/?p=167 to http://my-iddah.com/i-still-love-my-former-in-laws/
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/i-still-love-my-former-in-laws/index.html (from my-iddah.com/i-still-love-my-former-in-laws/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/i-still-love-my-former-in-laws/myStory.html (from my-iddah.com/i-still-love-my-former-in-laws/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/i-still-love-my-former-in-laws/books.html (from my-iddah.com/i-still-love-my-former-in-laws/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/i-still-love-my-former-in-laws/articlesHome.html (from my-iddah.com/i-still-love-my-former-in-laws/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/i-still-love-my-former-in-laws/Products.html (from my-iddah.com/i-still-love-my-former-in-laws/)
+02:25:12	Warning: 	Moved Permanently for my-iddah.com/?p=170
+02:25:12	Warning: 	File has moved from my-iddah.com/?p=170 to http://my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/index.html (from my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/myStory.html (from my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/books.html (from my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/articlesHome.html (from my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/Products.html (from my-iddah.com/4-ways-to-get-rid-of-post-divorce-bitterness/)
+02:25:12	Warning: 	Moved Permanently for my-iddah.com/?p=168
+02:25:12	Warning: 	File has moved from my-iddah.com/?p=168 to http://my-iddah.com/struggle-a-poem-about-leaving/
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/struggle-a-poem-about-leaving/index.html (from my-iddah.com/struggle-a-poem-about-leaving/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/struggle-a-poem-about-leaving/myStory.html (from my-iddah.com/struggle-a-poem-about-leaving/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/struggle-a-poem-about-leaving/books.html (from my-iddah.com/struggle-a-poem-about-leaving/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/struggle-a-poem-about-leaving/articlesHome.html (from my-iddah.com/struggle-a-poem-about-leaving/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/struggle-a-poem-about-leaving/Products.html (from my-iddah.com/struggle-a-poem-about-leaving/)
+02:25:12	Warning: 	Moved Permanently for my-iddah.com/?p=139
+02:25:12	Warning: 	File has moved from my-iddah.com/?p=139 to http://my-iddah.com/so-you-wanna-marry-a-single-mum/
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/so-you-wanna-marry-a-single-mum/index.html (from my-iddah.com/so-you-wanna-marry-a-single-mum/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/so-you-wanna-marry-a-single-mum/myStory.html (from my-iddah.com/so-you-wanna-marry-a-single-mum/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/so-you-wanna-marry-a-single-mum/books.html (from my-iddah.com/so-you-wanna-marry-a-single-mum/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/so-you-wanna-marry-a-single-mum/articlesHome.html (from my-iddah.com/so-you-wanna-marry-a-single-mum/)
+02:25:12	Error: 	"Not Found" (404) at link my-iddah.com/so-you-wanna-marry-a-single-mum/Products.html (from my-iddah.com/so-you-wanna-marry-a-single-mum/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=174
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=174 to http://my-iddah.com/ditching-divorce-drama-video/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/ditching-divorce-drama-video/index.html (from my-iddah.com/ditching-divorce-drama-video/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/ditching-divorce-drama-video/myStory.html (from my-iddah.com/ditching-divorce-drama-video/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/ditching-divorce-drama-video/books.html (from my-iddah.com/ditching-divorce-drama-video/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/ditching-divorce-drama-video/articlesHome.html (from my-iddah.com/ditching-divorce-drama-video/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/ditching-divorce-drama-video/Products.html (from my-iddah.com/ditching-divorce-drama-video/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=151
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=151 to http://my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/index.html (from my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/myStory.html (from my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/books.html (from my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/articlesHome.html (from my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/Products.html (from my-iddah.com/i-spent-ramadan-alone-learned-to-count-my-blessings/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=148
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=148 to http://my-iddah.com/a-series-of-firsts/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts/index.html (from my-iddah.com/a-series-of-firsts/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts/myStory.html (from my-iddah.com/a-series-of-firsts/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts/books.html (from my-iddah.com/a-series-of-firsts/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts/articlesHome.html (from my-iddah.com/a-series-of-firsts/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts/Products.html (from my-iddah.com/a-series-of-firsts/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=147
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=147 to http://my-iddah.com/a-series-of-firsts-part-2/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts-part-2/index.html (from my-iddah.com/a-series-of-firsts-part-2/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts-part-2/myStory.html (from my-iddah.com/a-series-of-firsts-part-2/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts-part-2/books.html (from my-iddah.com/a-series-of-firsts-part-2/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts-part-2/articlesHome.html (from my-iddah.com/a-series-of-firsts-part-2/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/a-series-of-firsts-part-2/Products.html (from my-iddah.com/a-series-of-firsts-part-2/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=146
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=146 to http://my-iddah.com/tips-for-a-blessed-solo-eid/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Be-proactive-1.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Be-proactive-1-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/treat-yourself.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/treat-yourself-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-5-for-a-Blessed-Solo-Eid.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-5-for-a-Blessed-Solo-Eid-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-6-for-a-Blessed-Solo-Eid.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-6-for-a-Blessed-Solo-Eid-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-7-for-a-Blessed-Solo-Eid.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-7-for-a-Blessed-Solo-Eid-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-8-for-a-Blessed-Solo-Eid.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-8-for-a-Blessed-Solo-Eid-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-9-for-a-Blessed-Solo-Eid.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/07/Tip-9-for-a-Blessed-Solo-Eid-300x300.jpg (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/tips-for-a-blessed-solo-eid/index.html (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/tips-for-a-blessed-solo-eid/myStory.html (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/tips-for-a-blessed-solo-eid/books.html (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/tips-for-a-blessed-solo-eid/articlesHome.html (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/tips-for-a-blessed-solo-eid/Products.html (from my-iddah.com/tips-for-a-blessed-solo-eid/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=130
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=130 to http://my-iddah.com/the-fiqh-of-iddah/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/the-fiqh-of-iddah/index.html (from my-iddah.com/the-fiqh-of-iddah/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/the-fiqh-of-iddah/myStory.html (from my-iddah.com/the-fiqh-of-iddah/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/the-fiqh-of-iddah/books.html (from my-iddah.com/the-fiqh-of-iddah/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/the-fiqh-of-iddah/articlesHome.html (from my-iddah.com/the-fiqh-of-iddah/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/the-fiqh-of-iddah/Products.html (from my-iddah.com/the-fiqh-of-iddah/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=165
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=165 to http://my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/index.html (from my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/myStory.html (from my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/books.html (from my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/articlesHome.html (from my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/Products.html (from my-iddah.com/my-divorce-was-the-best-thing-that-ever-happened-to-me/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=164
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=164 to http://my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/index.html (from my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/myStory.html (from my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/books.html (from my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/articlesHome.html (from my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/Products.html (from my-iddah.com/running-on-e-9-signs-you-are-emotionally-exhausted/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=163
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=163 to http://my-iddah.com/my-khul-my-freedom/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-khul-my-freedom/index.html (from my-iddah.com/my-khul-my-freedom/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-khul-my-freedom/myStory.html (from my-iddah.com/my-khul-my-freedom/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-khul-my-freedom/books.html (from my-iddah.com/my-khul-my-freedom/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-khul-my-freedom/articlesHome.html (from my-iddah.com/my-khul-my-freedom/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-khul-my-freedom/Products.html (from my-iddah.com/my-khul-my-freedom/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=155
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=155 to http://my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/index.html (from my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/myStory.html (from my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/books.html (from my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/articlesHome.html (from my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/Products.html (from my-iddah.com/standing-on-your-own-two-feet-as-a-single-mum/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=154
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=154 to http://my-iddah.com/my-best-ramadaans-were-as-a-single-mum/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-best-ramadaans-were-as-a-single-mum/index.html (from my-iddah.com/my-best-ramadaans-were-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-best-ramadaans-were-as-a-single-mum/myStory.html (from my-iddah.com/my-best-ramadaans-were-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-best-ramadaans-were-as-a-single-mum/books.html (from my-iddah.com/my-best-ramadaans-were-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-best-ramadaans-were-as-a-single-mum/articlesHome.html (from my-iddah.com/my-best-ramadaans-were-as-a-single-mum/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/my-best-ramadaans-were-as-a-single-mum/Products.html (from my-iddah.com/my-best-ramadaans-were-as-a-single-mum/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=153
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=153 to http://my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/index.html (from my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/myStory.html (from my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/books.html (from my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/articlesHome.html (from my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/Products.html (from my-iddah.com/it-took-me-21-years-and-11-months-of-abuse-until-i-had-this-realization/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=141
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=141 to http://my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/index.html (from my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/myStory.html (from my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/books.html (from my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/articlesHome.html (from my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/Products.html (from my-iddah.com/behind-picket-fences-review-of-hend-hegazis-eye-opening-novel/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=136
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=136 to http://my-iddah.com/life-as-a-step-parent/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/life-as-a-step-parent/index.html (from my-iddah.com/life-as-a-step-parent/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/life-as-a-step-parent/myStory.html (from my-iddah.com/life-as-a-step-parent/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/life-as-a-step-parent/books.html (from my-iddah.com/life-as-a-step-parent/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/life-as-a-step-parent/articlesHome.html (from my-iddah.com/life-as-a-step-parent/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/life-as-a-step-parent/Products.html (from my-iddah.com/life-as-a-step-parent/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=134
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=134 to http://my-iddah.com/guidance-through-the-stable-door/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/guidance-through-the-stable-door/index.html (from my-iddah.com/guidance-through-the-stable-door/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/guidance-through-the-stable-door/myStory.html (from my-iddah.com/guidance-through-the-stable-door/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/guidance-through-the-stable-door/books.html (from my-iddah.com/guidance-through-the-stable-door/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/guidance-through-the-stable-door/articlesHome.html (from my-iddah.com/guidance-through-the-stable-door/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/guidance-through-the-stable-door/Products.html (from my-iddah.com/guidance-through-the-stable-door/)
+02:25:13	Warning: 	Moved Permanently for my-iddah.com/?p=131
+02:25:13	Warning: 	File has moved from my-iddah.com/?p=131 to http://my-iddah.com/the-heart-does-go-on/
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mykhulymyfreedom.jpg (from my-iddah.com/the-heart-does-go-on/)
+02:25:13	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/lifeafterdivorce.jpg (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ittookme21years.jpg (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-heart-does-go-on/index.html (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-heart-does-go-on/myStory.html (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-heart-does-go-on/books.html (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-heart-does-go-on/articlesHome.html (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-heart-does-go-on/Products.html (from my-iddah.com/the-heart-does-go-on/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=55
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=55 to http://my-iddah.com/could-i-ever-remarry/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/could-i-ever-remarry/index.html (from my-iddah.com/could-i-ever-remarry/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/could-i-ever-remarry/myStory.html (from my-iddah.com/could-i-ever-remarry/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/could-i-ever-remarry/books.html (from my-iddah.com/could-i-ever-remarry/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/could-i-ever-remarry/articlesHome.html (from my-iddah.com/could-i-ever-remarry/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/could-i-ever-remarry/Products.html (from my-iddah.com/could-i-ever-remarry/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=133
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=133 to http://my-iddah.com/midnight-prayers-of-a-single-mother/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/ispentramadhanalone.jpg (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/midnight-prayers-of-a-single-mother/index.html (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/midnight-prayers-of-a-single-mother/myStory.html (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/midnight-prayers-of-a-single-mother/books.html (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/midnight-prayers-of-a-single-mother/articlesHome.html (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/midnight-prayers-of-a-single-mother/Products.html (from my-iddah.com/midnight-prayers-of-a-single-mother/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=57
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=57 to http://my-iddah.com/the-tensions-of-the-iddah/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-tensions-of-the-iddah/index.html (from my-iddah.com/the-tensions-of-the-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-tensions-of-the-iddah/myStory.html (from my-iddah.com/the-tensions-of-the-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-tensions-of-the-iddah/books.html (from my-iddah.com/the-tensions-of-the-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-tensions-of-the-iddah/articlesHome.html (from my-iddah.com/the-tensions-of-the-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/the-tensions-of-the-iddah/Products.html (from my-iddah.com/the-tensions-of-the-iddah/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=76
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=76 to http://my-iddah.com/celebrate-life/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/celebrate-life/index.html (from my-iddah.com/celebrate-life/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/celebrate-life/myStory.html (from my-iddah.com/celebrate-life/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/celebrate-life/books.html (from my-iddah.com/celebrate-life/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/celebrate-life/articlesHome.html (from my-iddah.com/celebrate-life/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/celebrate-life/Products.html (from my-iddah.com/celebrate-life/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=78
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=78 to http://my-iddah.com/his-promise-is-true/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/his-promise-is-true/index.html (from my-iddah.com/his-promise-is-true/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/his-promise-is-true/myStory.html (from my-iddah.com/his-promise-is-true/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/his-promise-is-true/books.html (from my-iddah.com/his-promise-is-true/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/his-promise-is-true/articlesHome.html (from my-iddah.com/his-promise-is-true/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/his-promise-is-true/Products.html (from my-iddah.com/his-promise-is-true/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=142
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=142 to http://my-iddah.com/iddah-by-any-other-name/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/iddah-by-any-other-name/index.html (from my-iddah.com/iddah-by-any-other-name/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/iddah-by-any-other-name/myStory.html (from my-iddah.com/iddah-by-any-other-name/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/iddah-by-any-other-name/books.html (from my-iddah.com/iddah-by-any-other-name/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/iddah-by-any-other-name/articlesHome.html (from my-iddah.com/iddah-by-any-other-name/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/iddah-by-any-other-name/Products.html (from my-iddah.com/iddah-by-any-other-name/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=140
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=140 to http://my-iddah.com/moving-beyond-the-blues/
+02:25:32	Warning: 	Retry after error -4 (No data (connection closed)) at link my-iddah.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmy-iddah.com%2Fmoving-beyond-the-blues%2F&format=xml (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/moving-beyond-the-blues/index.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/moving-beyond-the-blues/myStory.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Warning: 	Retry after error -4 (No data (connection closed)) at link my-iddah.com/moving-beyond-the-blues/books.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/moving-beyond-the-blues/articlesHome.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/moving-beyond-the-blues/Products.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=161
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=161 to http://my-iddah.com/how-i-began-healing-in-my-iddah/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/howibeganhealingmyiddah.jpeg (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/how-i-began-healing-in-my-iddah/index.html (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/how-i-began-healing-in-my-iddah/myStory.html (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/how-i-began-healing-in-my-iddah/books.html (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/how-i-began-healing-in-my-iddah/articlesHome.html (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/how-i-began-healing-in-my-iddah/Products.html (from my-iddah.com/how-i-began-healing-in-my-iddah/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=158
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=158 to http://my-iddah.com/divorce-shamers/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorce-shamers/index.html (from my-iddah.com/divorce-shamers/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorce-shamers/myStory.html (from my-iddah.com/divorce-shamers/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorce-shamers/books.html (from my-iddah.com/divorce-shamers/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorce-shamers/articlesHome.html (from my-iddah.com/divorce-shamers/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorce-shamers/Products.html (from my-iddah.com/divorce-shamers/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/myStory.html (from my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=157
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=157 to http://my-iddah.com/divorceversary/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/humbleadviceonmydivore-versary.jpg (from my-iddah.com/divorceversary/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorceversary/index.html (from my-iddah.com/divorceversary/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorceversary/myStory.html (from my-iddah.com/divorceversary/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorceversary/books.html (from my-iddah.com/divorceversary/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorceversary/articlesHome.html (from my-iddah.com/divorceversary/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/divorceversary/Products.html (from my-iddah.com/divorceversary/)
+02:25:32	Warning: 	Moved Permanently for my-iddah.com/?p=162
+02:25:32	Warning: 	File has moved from my-iddah.com/?p=162 to http://my-iddah.com/the-importance-of-self-care/
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/standingonyourowntwofeet.jpg (from my-iddah.com/the-importance-of-self-care/)
+02:25:32	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/rebuildingyourselfafterdivorce.jpg (from my-iddah.com/the-importance-of-self-care/)
+02:25:44	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mydivorcewasthebestthingthathaseverhappenedtome.jpg (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/theimportanceofselfcare-Copy.jpeg (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/05/fok-book-cover.jpg (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/the-importance-of-self-care/index.html (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/the-importance-of-self-care/myStory.html (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/the-importance-of-self-care/books.html (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/the-importance-of-self-care/articlesHome.html (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/the-importance-of-self-care/Products.html (from my-iddah.com/the-importance-of-self-care/)
+02:25:52	Warning: 	Moved Permanently for my-iddah.com/?p=159
+02:25:52	Warning: 	File has moved from my-iddah.com/?p=159 to http://my-iddah.com/life-after-divorce-video/
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/lifeafterdivorce-1.jpg (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/life-after-divorce-video/index.html (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/life-after-divorce-video/myStory.html (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/life-after-divorce-video/books.html (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/life-after-divorce-video/articlesHome.html (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/life-after-divorce-video/Products.html (from my-iddah.com/life-after-divorce-video/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/moving-beyond-the-blues/books.html (from my-iddah.com/moving-beyond-the-blues/)
+02:25:52	Warning: 	Moved Permanently for my-iddah.com/?p=138
+02:25:52	Warning: 	File has moved from my-iddah.com/?p=138 to http://my-iddah.com/rebuilding-yourself-after-divorce/
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/RebuildingYourselfAfterDivorce.jpg (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/rebuilding-yourself-after-divorce/index.html (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/rebuilding-yourself-after-divorce/myStory.html (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/rebuilding-yourself-after-divorce/books.html (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/rebuilding-yourself-after-divorce/articlesHome.html (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/rebuilding-yourself-after-divorce/Products.html (from my-iddah.com/rebuilding-yourself-after-divorce/)
+02:25:52	Warning: 	Moved Permanently for my-iddah.com/?p=127
+02:25:52	Warning: 	File has moved from my-iddah.com/?p=127 to http://my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/wp-content/uploads/2016/11/mydivorcewasthebestthingthathaseverhappenedtome.jpeg (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/index.html (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/myStory.html (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/books.html (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/articlesHome.html (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+02:25:52	Error: 	"Not Found" (404) at link my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/Products.html (from my-iddah.com/my-divorce-is-the-biggest-blessing-of-my-life/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 34 seconds : 870 links scanned, 317 files written (5033972 bytes overall) [14523051 bytes received at 7211 bytes/sec], 3661146 bytes transferred using HTTP compression in 214 files, ratio 25%, 3.6 requests per connection
+(482 errors, 135 warnings, 0 messages)
